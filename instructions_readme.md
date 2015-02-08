@@ -27,3 +27,29 @@ You may notice that additional graphs are stored in the **/figures** folder (the
 for the moment that was the quickest way I knew to allow the graphs to be viewed in the CookBooks.md 
 and CookBooks.html.
 
+**Input Files:**
+* Project-1.R
+* DataDownload_andProcessing.Rmd
+* plot1.Rmd
+* plot2.Rmd
+* plot3.Rmd
+* plot4.Rmd
+
+**Output Files:**
+* DataDownload_andProcessing_CodeBook.html
+* DataDownload_andProcessing_CodeBook.md
+* Plot1_CodeBook.html
+* Plot1_CodeBook.md
+* Plot2_CodeBook.html
+* Plot2_CodeBook.md
+* Plot3_CodeBook.md
+* Plot3_CodeBook.html
+* Plot4_CodeBook.html
+* Plot4_CodeBook.md
+* /final_plot_pngs
+    * plot1.png
+    * plot2.png
+    * plot3.png
+    * plot4.png
+
+
