@@ -14,7 +14,7 @@ output: html_document
 
 
 ```r
-png(filename="./final_plot_pngs/plot3", width=480,height=480, bg='transparent')
+png(filename="./final_plot_pngs/plot3.png", width=480,height=480, bg='transparent')
 
 plot(housedata$Date, housedata$Sub_metering_1, type="l", ylab="Energy sub metering", xlab='')
 lines(housedata$Date, housedata$Sub_metering_2, type="l", col="red")

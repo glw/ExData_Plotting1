@@ -13,7 +13,7 @@ output: html_document
 ### Plot 1 save as PNG
 
 ```r
-png(filename="./final_plot_pngs/plot1", width=480,height=480, bg='transparent')
+png(filename="./final_plot_pngs/plot1.png", width=480,height=480, bg='transparent')
 
 # Create plot 1
 histo <- hist(housedata$Global_active_power, breaks=12, main = "Global Active Power", col='red', xlab = "Global Active Power (kilowatts)")

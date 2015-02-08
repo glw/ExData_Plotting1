@@ -14,7 +14,7 @@ output: html_document
 
 
 ```r
-png(filename="./final_plot_pngs/plot2", width=480,height=480, bg='transparent')
+png(filename="./final_plot_pngs/plot2.png", width=480,height=480, bg='transparent')
 
 plot(housedata$Date, housedata$Global_active_power, type="l", ylab="Global Active Power (kilowatts)", xlab='')
 

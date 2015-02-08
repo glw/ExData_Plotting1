@@ -33,8 +33,7 @@ sessionInfo()
 ## [1] markdown_0.7.4 knitr_1.9     
 ## 
 ## loaded via a namespace (and not attached):
-## [1] evaluate_0.5.5 formatR_1.0    stringr_0.6.2  tools_3.1.2   
-## [5] yaml_2.1.13
+## [1] evaluate_0.5.5 formatR_1.0    stringr_0.6.2  tools_3.1.2
 ```
 
 

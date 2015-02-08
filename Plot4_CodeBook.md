@@ -14,7 +14,7 @@ output: html_document
 
 
 ```r
-png(filename="./final_plot_pngs/plot4", width=480,height=480, bg='transparent')
+png(filename="./final_plot_pngs/plot4.png", width=480,height=480, bg='transparent')
 
 par(mfrow=c(2,2))
 
